@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact **Did you know that the term "bug" in programming actually refers to a real insect? Back in 1947, computer scientist Grace Hopper found a literal moth stuck in one of the relays of the Harvard Mark II computer. She cleverly taped the moth to the logbook and wrote, "First actual case of bug being found."**
 
-<img align="ceneter" alt="Coding" src="https://i.gifer.com/PcUC.gif" />
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
